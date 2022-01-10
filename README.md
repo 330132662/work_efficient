@@ -5,5 +5,13 @@
  一、markdown编辑：  
 1、 https://www.typora.io/  
 2、 MarkdownPad  
+
+二、浏览器扩展
+   1、油猴  https://ext.chrome.360.cn/csex_web/index.html#/details?crx_id=dhdgffkkebhmkfjojejmpbldmpobfkfo  
+        其中油猴插件推荐：
+   2、 https://ext.chrome.360.cn/csex_web/index.html#/details?crx_id=chklaanhfefbnpoihckbnefhakgolnmc  
+   3、https://www.octotree.io/  
+   4、https://chrome.google.com/webstore/search/heku.org  
+       
 ## 软件开发 
 ### Android
